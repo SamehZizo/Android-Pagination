@@ -51,7 +51,7 @@ public class Pagination {
         });
     }
 
-    interface Complete {
+    public interface Complete {
         void onComplete();
     }
 
